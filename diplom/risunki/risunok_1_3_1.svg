@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="600" viewBox="0 0 1100 600" font-family="Times New Roman, Times, serif" font-size="14">
+<rect width="1100" height="600" fill="#FFFFFF"/>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#000000"/></marker><marker id="arrAcc" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1F6FB2"/></marker></defs>
+<text x="550.0" y="30" text-anchor="middle" font-size="15" fill="#000000" font-weight="bold" font-style="normal">Рисунок 1.3.1 – Схема прохождения межбанковского перевода через ПС БР</text>
+<rect x="60" y="220" width="160" height="100" fill="#E8E8E8" stroke="#000000" stroke-width="1.5" rx="4" ry="4"/>
+<text x="140.0" y="267.0" text-anchor="middle" font-size="12" fill="#000000" font-weight="bold" font-style="normal">ПЛАТЕЛЬЩИК</text>
+<text x="140.0" y="282.0" text-anchor="middle" font-size="12" fill="#000000" font-weight="bold" font-style="normal">(клиент 1)</text>
+<rect x="260" y="200" width="180" height="140" fill="#D9EAF7" stroke="#000000" stroke-width="1.5" rx="4" ry="4"/>
+<text x="350.0" y="259.5" text-anchor="middle" font-size="12" fill="#000000" font-weight="bold" font-style="normal">БАНК-</text>
+<text x="350.0" y="274.5" text-anchor="middle" font-size="12" fill="#000000" font-weight="bold" font-style="normal">ОТПРАВИТЕЛЬ</text>
+<text x="350.0" y="289.5" text-anchor="middle" font-size="12" fill="#000000" font-weight="bold" font-style="normal">(АБС)</text>
+<rect x="480" y="130" width="200" height="280" fill="#FFF3CD" stroke="#000000" stroke-width="1.5" rx="4" ry="4"/>
+<text x="580.0" y="237.0" text-anchor="middle" font-size="12" fill="#000000" font-weight="bold" font-style="normal">ПЛАТЁЖНАЯ</text>
+<text x="580.0" y="252.0" text-anchor="middle" font-size="12" fill="#000000" font-weight="bold" font-style="normal">СИСТЕМА БАНКА</text>
+<text x="580.0" y="267.0" text-anchor="middle" font-size="12" fill="#000000" font-weight="bold" font-style="normal">РОССИИ</text>
+<text x="580.0" y="282.0" text-anchor="middle" font-size="12" fill="#000000" font-weight="bold" font-style="normal"></text>
+<text x="580.0" y="297.0" text-anchor="middle" font-size="12" fill="#000000" font-weight="bold" font-style="normal">Сервисы:</text>
+<text x="580.0" y="312.0" text-anchor="middle" font-size="12" fill="#000000" font-weight="bold" font-style="normal">СС / НС / СБП</text>
+<rect x="720" y="200" width="180" height="140" fill="#D9EAF7" stroke="#000000" stroke-width="1.5" rx="4" ry="4"/>
+<text x="810.0" y="259.5" text-anchor="middle" font-size="12" fill="#000000" font-weight="bold" font-style="normal">БАНК-</text>
+<text x="810.0" y="274.5" text-anchor="middle" font-size="12" fill="#000000" font-weight="bold" font-style="normal">ПОЛУЧАТЕЛЬ</text>
+<text x="810.0" y="289.5" text-anchor="middle" font-size="12" fill="#000000" font-weight="bold" font-style="normal">(АБС)</text>
+<rect x="940" y="220" width="140" height="100" fill="#E8E8E8" stroke="#000000" stroke-width="1.5" rx="4" ry="4"/>
+<text x="1010.0" y="267.0" text-anchor="middle" font-size="12" fill="#000000" font-weight="bold" font-style="normal">ПОЛУЧАТЕЛЬ</text>
+<text x="1010.0" y="282.0" text-anchor="middle" font-size="12" fill="#000000" font-weight="bold" font-style="normal">(клиент 2)</text>
+<line x1="220" y1="270" x2="260" y2="270" stroke="#1F6FB2" stroke-width="2" marker-end="url(#arrAcc)"/>
+<text x="240.0" y="252" text-anchor="middle" font-size="10" fill="#1F6FB2" font-weight="normal" font-style="normal">1. Поручение</text>
+<line x1="440" y1="270" x2="480" y2="270" stroke="#1F6FB2" stroke-width="2" marker-end="url(#arrAcc)"/>
+<text x="460.0" y="224" text-anchor="middle" font-size="10" fill="#1F6FB2" font-weight="normal" font-style="normal">2. Платёжное</text>
+<text x="460.0" y="238" text-anchor="middle" font-size="10" fill="#1F6FB2" font-weight="normal" font-style="normal">сообщение</text>
+<text x="460.0" y="252" text-anchor="middle" font-size="10" fill="#1F6FB2" font-weight="normal" font-style="normal">ISO 20022</text>
+<line x1="680" y1="270" x2="720" y2="270" stroke="#1F6FB2" stroke-width="2" marker-end="url(#arrAcc)"/>
+<text x="700.0" y="238" text-anchor="middle" font-size="10" fill="#1F6FB2" font-weight="normal" font-style="normal">3. Платёжное</text>
+<text x="700.0" y="252" text-anchor="middle" font-size="10" fill="#1F6FB2" font-weight="normal" font-style="normal">сообщение</text>
+<line x1="900" y1="270" x2="940" y2="270" stroke="#1F6FB2" stroke-width="2" marker-end="url(#arrAcc)"/>
+<text x="920.0" y="252" text-anchor="middle" font-size="10" fill="#1F6FB2" font-weight="normal" font-style="normal">4. Зачисление</text>
+<line x1="260" y1="320" x2="220" y2="320" stroke="#888888" stroke-width="1.2" marker-end="url(#arrAcc)"/>
+<line x1="480" y1="320" x2="440" y2="320" stroke="#888888" stroke-width="1.2" marker-end="url(#arrAcc)"/>
+<line x1="720" y1="320" x2="680" y2="320" stroke="#888888" stroke-width="1.2" marker-end="url(#arrAcc)"/>
+<line x1="940" y1="320" x2="900" y2="320" stroke="#888888" stroke-width="1.2" marker-end="url(#arrAcc)"/>
+<text x="550.0" y="360" text-anchor="middle" font-size="11" fill="#888888" font-weight="normal" font-style="italic">← Уведомления о статусе и зачислении</text>
+<text x="580" y="470" text-anchor="middle" font-size="12" fill="#000000" font-weight="bold" font-style="normal">В платёжной системе Банка России:</text>
+<text x="580" y="490" text-anchor="middle" font-size="11" fill="#888888" font-weight="normal" font-style="normal">проверка реквизитов → клиринг → расчёт → отправка получателю</text>
+<text x="350" y="410" text-anchor="middle" font-size="10" fill="#888888" font-weight="normal" font-style="italic">АМЛ-проверка, антифрод,</text>
+<text x="350" y="425" text-anchor="middle" font-size="10" fill="#888888" font-weight="normal" font-style="italic">списание со счёта</text>
+<text x="810" y="410" text-anchor="middle" font-size="10" fill="#888888" font-weight="normal" font-style="italic">АМЛ-проверка,</text>
+<text x="810" y="425" text-anchor="middle" font-size="10" fill="#888888" font-weight="normal" font-style="italic">зачисление на счёт</text>
+</svg>

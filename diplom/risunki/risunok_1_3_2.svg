@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="700" viewBox="0 0 1100 700" font-family="Times New Roman, Times, serif" font-size="14">
+<rect width="1100" height="700" fill="#FFFFFF"/>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#000000"/></marker><marker id="arrAcc" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1F6FB2"/></marker></defs>
+<text x="550.0" y="30" text-anchor="middle" font-size="15" fill="#000000" font-weight="bold" font-style="normal">Рисунок 1.3.2 – Архитектура национальной платёжной инфраструктуры РФ</text>
+<rect x="330.0" y="70" width="440" height="60" fill="#FFF3CD" stroke="#000000" stroke-width="2" rx="4" ry="4"/>
+<text x="550.0" y="97.0" text-anchor="middle" font-size="14" fill="#000000" font-weight="bold" font-style="normal">БАНК РОССИИ</text>
+<text x="550.0" y="114.0" text-anchor="middle" font-size="14" fill="#000000" font-weight="bold" font-style="normal">(мегарегулятор национальной платёжной системы)</text>
+<rect x="60" y="200" width="220" height="110" fill="#D9EAF7" stroke="#000000" stroke-width="1.5" rx="4" ry="4"/>
+<text x="170.0" y="244.5" text-anchor="middle" font-size="12" fill="#000000" font-weight="bold" font-style="normal">ПС Банка</text>
+<text x="170.0" y="259.5" text-anchor="middle" font-size="12" fill="#000000" font-weight="bold" font-style="normal">России</text>
+<text x="170.0" y="274.5" text-anchor="middle" font-size="12" fill="#000000" font-weight="bold" font-style="normal">(ПС БР)</text>
+<text x="170.0" y="328" text-anchor="middle" font-size="10" fill="#888888" font-weight="normal" font-style="italic">Сервисы СС, НС, СБП</text>
+<line x1="550.0" y1="130" x2="170.0" y2="200" stroke="#888888" stroke-width="1"/>
+<rect x="300" y="200" width="220" height="110" fill="#D9EAF7" stroke="#000000" stroke-width="1.5" rx="4" ry="4"/>
+<text x="410.0" y="244.5" text-anchor="middle" font-size="12" fill="#000000" font-weight="bold" font-style="normal">Система</text>
+<text x="410.0" y="259.5" text-anchor="middle" font-size="12" fill="#000000" font-weight="bold" font-style="normal">быстрых платежей</text>
+<text x="410.0" y="274.5" text-anchor="middle" font-size="12" fill="#000000" font-weight="bold" font-style="normal">(СБП)</text>
+<text x="410.0" y="328" text-anchor="middle" font-size="10" fill="#888888" font-weight="normal" font-style="italic">Мгновенные переводы 24/7</text>
+<line x1="550.0" y1="130" x2="410.0" y2="200" stroke="#888888" stroke-width="1"/>
+<rect x="560" y="200" width="220" height="110" fill="#D9EAF7" stroke="#000000" stroke-width="1.5" rx="4" ry="4"/>
+<text x="670.0" y="244.5" text-anchor="middle" font-size="12" fill="#000000" font-weight="bold" font-style="normal">НСПК</text>
+<text x="670.0" y="259.5" text-anchor="middle" font-size="12" fill="#000000" font-weight="bold" font-style="normal">«Мир»</text>
+<text x="670.0" y="274.5" text-anchor="middle" font-size="12" fill="#000000" font-weight="bold" font-style="normal"></text>
+<text x="670.0" y="328" text-anchor="middle" font-size="10" fill="#888888" font-weight="normal" font-style="italic">Карточные операции</text>
+<line x1="550.0" y1="130" x2="670.0" y2="200" stroke="#888888" stroke-width="1"/>
+<rect x="820" y="200" width="220" height="110" fill="#D9EAF7" stroke="#000000" stroke-width="1.5" rx="4" ry="4"/>
+<text x="930.0" y="244.5" text-anchor="middle" font-size="12" fill="#000000" font-weight="bold" font-style="normal">СПФС</text>
+<text x="930.0" y="259.5" text-anchor="middle" font-size="12" fill="#000000" font-weight="bold" font-style="normal">Банка России</text>
+<text x="930.0" y="274.5" text-anchor="middle" font-size="12" fill="#000000" font-weight="bold" font-style="normal"></text>
+<text x="930.0" y="328" text-anchor="middle" font-size="10" fill="#888888" font-weight="normal" font-style="italic">Финансовые сообщения</text>
+<line x1="550.0" y1="130" x2="930.0" y2="200" stroke="#888888" stroke-width="1"/>
+<rect x="90.0" y="410" width="920" height="90" fill="#E8F5E8" stroke="#000000" stroke-width="1.5" rx="4" ry="4"/>
+<text x="550.0" y="452.0" text-anchor="middle" font-size="13" fill="#000000" font-weight="bold" font-style="normal">КОММЕРЧЕСКИЕ БАНКИ – операторы по переводу денежных средств</text>
+<text x="550.0" y="468.0" text-anchor="middle" font-size="13" fill="#000000" font-weight="bold" font-style="normal">(ПАО «Сбербанк», ВТБ, Альфа-Банк, Газпромбанк, Россельхозбанк, Т-Банк и др.)</text>
+<line x1="170.0" y1="330" x2="170.0" y2="410" stroke="#888888" stroke-width="1"/>
+<line x1="410.0" y1="330" x2="410.0" y2="410" stroke="#888888" stroke-width="1"/>
+<line x1="670.0" y1="330" x2="670.0" y2="410" stroke="#888888" stroke-width="1"/>
+<line x1="930.0" y1="330" x2="930.0" y2="410" stroke="#888888" stroke-width="1"/>
+<rect x="190.0" y="560" width="200" height="70" fill="#F0F0F0" stroke="#000000" stroke-width="1.2" rx="4" ry="4"/>
+<text x="290.0" y="592.0" text-anchor="middle" font-size="12" fill="#000000" font-weight="bold" font-style="normal">Физические лица</text>
+<text x="290.0" y="607.0" text-anchor="middle" font-size="12" fill="#000000" font-weight="bold" font-style="normal">(110 млн чел.)</text>
+<line x1="290.0" y1="560" x2="290.0" y2="500" stroke="#888888" stroke-width="1"/>
+<rect x="450.0" y="560" width="200" height="70" fill="#F0F0F0" stroke="#000000" stroke-width="1.2" rx="4" ry="4"/>
+<text x="550.0" y="592.0" text-anchor="middle" font-size="12" fill="#000000" font-weight="bold" font-style="normal">Юридические лица</text>
+<text x="550.0" y="607.0" text-anchor="middle" font-size="12" fill="#000000" font-weight="bold" font-style="normal">(3,2 млн орг.)</text>
+<line x1="550.0" y1="560" x2="550.0" y2="500" stroke="#888888" stroke-width="1"/>
+<rect x="710.0" y="560" width="200" height="70" fill="#F0F0F0" stroke="#000000" stroke-width="1.2" rx="4" ry="4"/>
+<text x="810.0" y="592.0" text-anchor="middle" font-size="12" fill="#000000" font-weight="bold" font-style="normal">Государство</text>
+<text x="810.0" y="607.0" text-anchor="middle" font-size="12" fill="#000000" font-weight="bold" font-style="normal">(бюджет, фонды)</text>
+<line x1="810.0" y1="560" x2="810.0" y2="500" stroke="#888888" stroke-width="1"/>
+<text x="550.0" y="680" text-anchor="middle" font-size="11" fill="#888888" font-weight="normal" font-style="italic">↑ движение средств | ↓ платёжные распоряжения и идентификация</text>
+</svg>

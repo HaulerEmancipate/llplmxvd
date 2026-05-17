@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="800" viewBox="0 0 1100 800" font-family="Times New Roman, Times, serif" font-size="14">
+<rect width="1100" height="800" fill="#FFFFFF"/>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#000000"/></marker><marker id="arrAcc" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1F6FB2"/></marker></defs>
+<text x="550.0" y="30" text-anchor="middle" font-size="15" fill="#000000" font-weight="bold" font-style="normal">Рисунок 1.1.1 – Классификация переводов денежных средств</text>
+<rect x="430.0" y="380.0" width="240" height="80" fill="#E8E8E8" stroke="#000000" stroke-width="2" rx="4" ry="4"/>
+<text x="550.0" y="417.0" text-anchor="middle" font-size="14" fill="#000000" font-weight="bold" font-style="normal">ПЕРЕВОДЫ</text>
+<text x="550.0" y="434.0" text-anchor="middle" font-size="14" fill="#000000" font-weight="bold" font-style="normal">ДЕНЕЖНЫХ СРЕДСТВ</text>
+<line x1="550.0" y1="380.0" x2="550.0" y2="170.5" stroke="#888888" stroke-width="1.2"/>
+<rect x="450.0" y="85.0" width="200" height="90" fill="#FFFFFF" stroke="#1F6FB2" stroke-width="1.5" rx="6" ry="6"/>
+<text x="550.0" y="105.0" text-anchor="middle" font-size="12" fill="#1F6FB2" font-weight="bold" font-style="normal">По субъектному составу</text>
+<text x="550.0" y="125.0" text-anchor="middle" font-size="11" fill="#000000" font-weight="normal" font-style="normal">P2P, P2B, B2B,</text>
+<text x="550.0" y="140.0" text-anchor="middle" font-size="11" fill="#000000" font-weight="normal" font-style="normal">B2P, G2P, P2G</text>
+<line x1="670.0" y1="380.0" x2="811.6295090390227" y2="243.57685809395642" stroke="#888888" stroke-width="1.2"/>
+<rect x="775.2691193458119" y="169.93903345590124" width="200" height="90" fill="#FFFFFF" stroke="#1F6FB2" stroke-width="1.5" rx="6" ry="6"/>
+<text x="875.2691193458119" y="189.93903345590124" text-anchor="middle" font-size="12" fill="#1F6FB2" font-weight="bold" font-style="normal">По территории</text>
+<text x="875.2691193458119" y="209.93903345590124" text-anchor="middle" font-size="11" fill="#000000" font-weight="normal" font-style="normal">внутрибанковские,</text>
+<text x="875.2691193458119" y="224.93903345590124" text-anchor="middle" font-size="11" fill="#000000" font-weight="normal" font-style="normal">межбанковские,</text>
+<text x="875.2691193458119" y="239.93903345590124" text-anchor="middle" font-size="11" fill="#000000" font-weight="normal" font-style="normal">трансграничные</text>
+<line x1="670.0" y1="420.0" x2="920.0" y2="420.0" stroke="#888888" stroke-width="1.2"/>
+<rect x="910.0" y="375.0" width="200" height="90" fill="#FFFFFF" stroke="#1F6FB2" stroke-width="1.5" rx="6" ry="6"/>
+<text x="1010.0" y="395.0" text-anchor="middle" font-size="12" fill="#1F6FB2" font-weight="bold" font-style="normal">По валюте</text>
+<text x="1010.0" y="415.0" text-anchor="middle" font-size="11" fill="#000000" font-weight="normal" font-style="normal">в национальной</text>
+<text x="1010.0" y="430.0" text-anchor="middle" font-size="11" fill="#000000" font-weight="normal" font-style="normal">и иностранной</text>
+<line x1="670.0" y1="460.0" x2="811.6295090390227" y2="596.4231419060436" stroke="#888888" stroke-width="1.2"/>
+<rect x="775.2691193458119" y="580.0609665440987" width="200" height="90" fill="#FFFFFF" stroke="#1F6FB2" stroke-width="1.5" rx="6" ry="6"/>
+<text x="875.2691193458119" y="600.0609665440987" text-anchor="middle" font-size="12" fill="#1F6FB2" font-weight="bold" font-style="normal">По срокам</text>
+<text x="875.2691193458119" y="620.0609665440987" text-anchor="middle" font-size="11" fill="#000000" font-weight="normal" font-style="normal">срочные,</text>
+<text x="875.2691193458119" y="635.0609665440987" text-anchor="middle" font-size="11" fill="#000000" font-weight="normal" font-style="normal">стандартные,</text>
+<text x="875.2691193458119" y="650.0609665440987" text-anchor="middle" font-size="11" fill="#000000" font-weight="normal" font-style="normal">регулярные</text>
+<line x1="550.0" y1="460.0" x2="550.0" y2="669.5" stroke="#888888" stroke-width="1.2"/>
+<rect x="450.0" y="665.0" width="200" height="90" fill="#FFFFFF" stroke="#1F6FB2" stroke-width="1.5" rx="6" ry="6"/>
+<text x="550.0" y="685.0" text-anchor="middle" font-size="12" fill="#1F6FB2" font-weight="bold" font-style="normal">По инициативе</text>
+<text x="550.0" y="705.0" text-anchor="middle" font-size="11" fill="#000000" font-weight="normal" font-style="normal">кредитовые,</text>
+<text x="550.0" y="720.0" text-anchor="middle" font-size="11" fill="#000000" font-weight="normal" font-style="normal">дебетовые</text>
+<line x1="430.0" y1="380.0" x2="288.37049096097746" y2="596.4231419060437" stroke="#888888" stroke-width="1.2"/>
+<rect x="124.73088065418818" y="580.0609665440988" width="200" height="90" fill="#FFFFFF" stroke="#1F6FB2" stroke-width="1.5" rx="6" ry="6"/>
+<text x="224.73088065418818" y="600.0609665440988" text-anchor="middle" font-size="12" fill="#1F6FB2" font-weight="bold" font-style="normal">По форме расчётов</text>
+<text x="224.73088065418818" y="620.0609665440988" text-anchor="middle" font-size="11" fill="#000000" font-weight="normal" font-style="normal">п/п, аккредитив,</text>
+<text x="224.73088065418818" y="635.0609665440988" text-anchor="middle" font-size="11" fill="#000000" font-weight="normal" font-style="normal">инкассо, чеки,</text>
+<text x="224.73088065418818" y="650.0609665440988" text-anchor="middle" font-size="11" fill="#000000" font-weight="normal" font-style="normal">ЭДС</text>
+<line x1="430.0" y1="420.0" x2="180.0" y2="420.00000000000006" stroke="#888888" stroke-width="1.2"/>
+<rect x="-10.0" y="375.00000000000006" width="200" height="90" fill="#FFFFFF" stroke="#1F6FB2" stroke-width="1.5" rx="6" ry="6"/>
+<text x="90.0" y="395.00000000000006" text-anchor="middle" font-size="12" fill="#1F6FB2" font-weight="bold" font-style="normal">По каналу</text>
+<text x="90.0" y="415.00000000000006" text-anchor="middle" font-size="11" fill="#000000" font-weight="normal" font-style="normal">офис, ДБО,</text>
+<text x="90.0" y="430.00000000000006" text-anchor="middle" font-size="11" fill="#000000" font-weight="normal" font-style="normal">банкомат, СБП,</text>
+<text x="90.0" y="445.00000000000006" text-anchor="middle" font-size="11" fill="#000000" font-weight="normal" font-style="normal">терминал</text>
+<line x1="430.0" y1="460.0" x2="288.37049096097735" y2="243.57685809395642" stroke="#888888" stroke-width="1.2"/>
+<rect x="124.73088065418807" y="169.93903345590124" width="200" height="90" fill="#FFFFFF" stroke="#1F6FB2" stroke-width="1.5" rx="6" ry="6"/>
+<text x="224.73088065418807" y="189.93903345590124" text-anchor="middle" font-size="12" fill="#1F6FB2" font-weight="bold" font-style="normal">По цели</text>
+<text x="224.73088065418807" y="209.93903345590124" text-anchor="middle" font-size="11" fill="#000000" font-weight="normal" font-style="normal">потребит., налог.,</text>
+<text x="224.73088065418807" y="224.93903345590124" text-anchor="middle" font-size="11" fill="#000000" font-weight="normal" font-style="normal">инвестиц., соц.</text>
+</svg>
