@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600" font-family="Times New Roman, Times, serif" font-size="14">
+<rect width="900" height="600" fill="#FFFFFF"/>
+<text x="450.0" y="30" text-anchor="middle" font-size="15" fill="#000000" font-weight="bold" font-style="normal">Рисунок 2.1.1 – Динамика активов ПАО «Сбербанк» за 2022–2024 гг., млрд руб.</text>
+<line x1="110" y1="80" x2="110" y2="520" stroke="#000000" stroke-width="1.5"/>
+<line x1="110" y1="520" x2="830" y2="520" stroke="#000000" stroke-width="1.5"/>
+<line x1="110" y1="520.0" x2="830" y2="520.0" stroke="#CCCCCC" stroke-width="0.7" stroke-dasharray="3,3"/>
+<text x="102" y="524.0" text-anchor="end" font-size="11" fill="#000000" font-weight="normal" font-style="normal">0</text>
+<line x1="110" y1="446.6666666666667" x2="830" y2="446.6666666666667" stroke="#CCCCCC" stroke-width="0.7" stroke-dasharray="3,3"/>
+<text x="102" y="450.6666666666667" text-anchor="end" font-size="11" fill="#000000" font-weight="normal" font-style="normal">10 000</text>
+<line x1="110" y1="373.33333333333337" x2="830" y2="373.33333333333337" stroke="#CCCCCC" stroke-width="0.7" stroke-dasharray="3,3"/>
+<text x="102" y="377.33333333333337" text-anchor="end" font-size="11" fill="#000000" font-weight="normal" font-style="normal">20 000</text>
+<line x1="110" y1="300.0" x2="830" y2="300.0" stroke="#CCCCCC" stroke-width="0.7" stroke-dasharray="3,3"/>
+<text x="102" y="304.0" text-anchor="end" font-size="11" fill="#000000" font-weight="normal" font-style="normal">30 000</text>
+<line x1="110" y1="226.66666666666669" x2="830" y2="226.66666666666669" stroke="#CCCCCC" stroke-width="0.7" stroke-dasharray="3,3"/>
+<text x="102" y="230.66666666666669" text-anchor="end" font-size="11" fill="#000000" font-weight="normal" font-style="normal">40 000</text>
+<line x1="110" y1="153.33333333333331" x2="830" y2="153.33333333333331" stroke="#CCCCCC" stroke-width="0.7" stroke-dasharray="3,3"/>
+<text x="102" y="157.33333333333331" text-anchor="end" font-size="11" fill="#000000" font-weight="normal" font-style="normal">50 000</text>
+<line x1="110" y1="80.0" x2="830" y2="80.0" stroke="#CCCCCC" stroke-width="0.7" stroke-dasharray="3,3"/>
+<text x="102" y="84.0" text-anchor="end" font-size="11" fill="#000000" font-weight="normal" font-style="normal">60 000</text>
+<rect x="192.5" y="214.0093333333333" width="130" height="305.9906666666667" fill="#21A038" stroke="#1A7A2D" stroke-width="1.5" rx="0" ry="0"/>
+<text x="257.5" y="204.0093333333333" text-anchor="middle" font-size="14" fill="#21A038" font-weight="bold" font-style="normal">41 726</text>
+<text x="257.5" y="544" text-anchor="middle" font-size="14" fill="#000000" font-weight="bold" font-style="normal">2022</text>
+<rect x="405.0" y="140.962" width="130" height="379.038" fill="#21A038" stroke="#1A7A2D" stroke-width="1.5" rx="0" ry="0"/>
+<text x="470.0" y="130.962" text-anchor="middle" font-size="14" fill="#21A038" font-weight="bold" font-style="normal">51 687</text>
+<text x="470.0" y="544" text-anchor="middle" font-size="14" fill="#000000" font-weight="bold" font-style="normal">2023</text>
+<rect x="617.5" y="103.30533333333335" width="130" height="416.69466666666665" fill="#21A038" stroke="#1A7A2D" stroke-width="1.5" rx="0" ry="0"/>
+<text x="682.5" y="93.30533333333335" text-anchor="middle" font-size="14" fill="#21A038" font-weight="bold" font-style="normal">56 822</text>
+<text x="682.5" y="544" text-anchor="middle" font-size="14" fill="#000000" font-weight="bold" font-style="normal">2024</text>
+<text x="470.0" y="565" text-anchor="middle" font-size="13" fill="#000000" font-weight="normal" font-style="italic">Год</text>
+<text x="20" y="300.0" text-anchor="middle" font-size="13" fill="#000000" font-style="italic" transform="rotate(-90 20 300.0)">млрд руб.</text>
+<text x="450.0" y="585" text-anchor="middle" font-size="12" fill="#888888" font-weight="normal" font-style="italic">Темп роста 2024 / 2022 = 136,2 %</text>
+</svg>

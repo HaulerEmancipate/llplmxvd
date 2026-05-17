@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650" font-family="Times New Roman, Times, serif" font-size="14">
+<rect width="1000" height="650" fill="#FFFFFF"/>
+<text x="500.0" y="30" text-anchor="middle" font-size="15" fill="#000000" font-weight="bold" font-style="normal">Рисунок 2.2.2 – Структура комиссионных доходов ПАО «Сбербанк»</text>
+<text x="500.0" y="50" text-anchor="middle" font-size="14" fill="#000000" font-weight="bold" font-style="normal">от расчётно-кассового обслуживания и переводов в 2024 г.</text>
+<path d="M 320 350 L 320.00 150.00 A 200 200 0 0 1 497.05 443.03 Z" fill="#21A038" stroke="white" stroke-width="2"/>
+<text x="431.2678147972473" y="286.7729712820396" text-anchor="middle" font-size="13" fill="#FFFFFF" font-weight="bold" font-style="normal">32.7%</text>
+<path d="M 320 350 L 497.05 443.03 A 200 200 0 0 1 197.42 508.03 Z" fill="#1F6FB2" stroke="white" stroke-width="2"/>
+<text x="347.5609242898671" y="481.04485606386515" text-anchor="middle" font-size="13" fill="#FFFFFF" font-weight="bold" font-style="normal">27.8%</text>
+<path d="M 320 350 L 197.42 508.03 A 200 200 0 0 1 121.01 370.07 Z" fill="#F4A300" stroke="white" stroke-width="2"/>
+<text x="206.2774450366511" y="416.9855578097717" text-anchor="middle" font-size="13" fill="#FFFFFF" font-weight="bold" font-style="normal">12.9%</text>
+<path d="M 320 350 L 121.01 370.07 A 200 200 0 0 1 153.88 238.62 Z" fill="#9B59B6" stroke="white" stroke-width="2"/>
+<text x="193.88354245628625" y="322.4620999965971" text-anchor="middle" font-size="13" fill="#FFFFFF" font-weight="bold" font-style="normal">11.0%</text>
+<path d="M 320 350 L 153.88 238.62 A 200 200 0 0 1 230.32 171.23 Z" fill="#E74C3C" stroke="white" stroke-width="2"/>
+<text x="234.0294575079253" y="256.48556094804024" text-anchor="middle" font-size="13" fill="#FFFFFF" font-weight="bold" font-style="normal">8.2%</text>
+<path d="M 320 350 L 230.32 171.23 A 200 200 0 0 1 280.06 154.03 Z" fill="#1ABC9C" stroke="white" stroke-width="2"/>
+<path d="M 320 350 L 280.06 154.03 A 200 200 0 0 1 320.00 150.00 Z" fill="#95A5A6" stroke="white" stroke-width="2"/>
+<text x="600" y="160" text-anchor="start" font-size="14" fill="#000000" font-weight="bold" font-style="normal">Структура (всего 436,5 млрд руб.):</text>
+<rect x="600" y="180" width="22" height="22" fill="#21A038" stroke="#000000" stroke-width="0.8" rx="0" ry="0"/>
+<text x="632" y="196" text-anchor="start" font-size="13" fill="#000000" font-weight="normal" font-style="normal">Эквайринг – 32.7%</text>
+<text x="632" y="210" text-anchor="start" font-size="10" fill="#888888" font-weight="normal" font-style="italic">(142.7 млрд руб.)</text>
+<rect x="600" y="216" width="22" height="22" fill="#1F6FB2" stroke="#000000" stroke-width="0.8" rx="0" ry="0"/>
+<text x="632" y="232" text-anchor="start" font-size="13" fill="#000000" font-weight="normal" font-style="normal">РКО юр. лиц – 27.8%</text>
+<text x="632" y="246" text-anchor="start" font-size="10" fill="#888888" font-weight="normal" font-style="italic">(121.3 млрд руб.)</text>
+<rect x="600" y="252" width="22" height="22" fill="#F4A300" stroke="#000000" stroke-width="0.8" rx="0" ry="0"/>
+<text x="632" y="268" text-anchor="start" font-size="13" fill="#000000" font-weight="normal" font-style="normal">Конверсионные операции – 12.9%</text>
+<text x="632" y="282" text-anchor="start" font-size="10" fill="#888888" font-weight="normal" font-style="italic">(56.3 млрд руб.)</text>
+<rect x="600" y="288" width="22" height="22" fill="#9B59B6" stroke="#000000" stroke-width="0.8" rx="0" ry="0"/>
+<text x="632" y="304" text-anchor="start" font-size="13" fill="#000000" font-weight="normal" font-style="normal">Услуги ДБО – 11.0%</text>
+<text x="632" y="318" text-anchor="start" font-size="10" fill="#888888" font-weight="normal" font-style="italic">(48.0 млрд руб.)</text>
+<rect x="600" y="324" width="22" height="22" fill="#E74C3C" stroke="#000000" stroke-width="0.8" rx="0" ry="0"/>
+<text x="632" y="340" text-anchor="start" font-size="13" fill="#000000" font-weight="normal" font-style="normal">Комиссии физ. лиц (вне СБП) – 8.2%</text>
+<text x="632" y="354" text-anchor="start" font-size="10" fill="#888888" font-weight="normal" font-style="italic">(35.8 млрд руб.)</text>
+<rect x="600" y="360" width="22" height="22" fill="#1ABC9C" stroke="#000000" stroke-width="0.8" rx="0" ry="0"/>
+<text x="632" y="376" text-anchor="start" font-size="13" fill="#000000" font-weight="normal" font-style="normal">Трансграничные переводы – 4.2%</text>
+<text x="632" y="390" text-anchor="start" font-size="10" fill="#888888" font-weight="normal" font-style="italic">(18.3 млрд руб.)</text>
+<rect x="600" y="396" width="22" height="22" fill="#95A5A6" stroke="#000000" stroke-width="0.8" rx="0" ry="0"/>
+<text x="632" y="412" text-anchor="start" font-size="13" fill="#000000" font-weight="normal" font-style="normal">Прочие операции – 3.2%</text>
+<text x="632" y="426" text-anchor="start" font-size="10" fill="#888888" font-weight="normal" font-style="italic">(14.0 млрд руб.)</text>
+</svg>
